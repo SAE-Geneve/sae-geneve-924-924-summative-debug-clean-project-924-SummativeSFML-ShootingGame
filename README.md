@@ -1,7 +1,5 @@
 # 924-4FSC0PF001-Summative
 
-Welcome to the 923-4FSC0PF001 Summative.
-
 1. Find the issues in the repository and make it work.
 2. Factorize that monolitihc main into functions and classes
 3. 3 hours
